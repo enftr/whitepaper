@@ -1,0 +1,17 @@
+- name: action-gitbook-sync-dir
+  # You may pin to the exact commit or the version.
+  # uses: mineko-io/action-gitbook-sync-dir@7d67ad676c9252f74a64443cb0bc8bf0e573f566
+  uses: mineko-io/action-gitbook-sync-dir@v1.0.11
+  with:
+    # gitbook access token
+    token: 
+    # organization title
+    org: 
+    # space name
+    space: 
+    # repository directory to sync
+    dir: 
+    # endpoint to gitbook api
+    apiEndpoint: # optional, default is https://api-beta.gitbook.com/v1
+    # optional name of group to create / sync pages under
+    group: # optional
