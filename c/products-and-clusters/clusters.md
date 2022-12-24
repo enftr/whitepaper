@@ -8,7 +8,7 @@
 
 <figure><img src="../../.gitbook/assets/cluster 6.jpg" alt=""><figcaption></figcaption></figure>
 
-This is the initial landing site of all users reserved for custom made experiences within the metaverse such plethora of shops, billboard advertisements, art galleries, movie channels, free games etc. Here users have the opportunity to visit different clusters available on ENVerse through "_mapped portals_" in order to have memorable experiences, engage different contents, meet different people and engage creatives across the continent and so on.
+This is the initial landing site of all users reserved for custom made experiences within the metaverse such plethora of shops, billboard advertisements, art galleries, movie channels, free games etc. Here users have the opportunity to visit different clusters available on ENVERSE through "_mapped portals_" in order to have memorable experiences, engage different contents, meet different people and engage creatives across the continent and so on.
 
 * [x] Education Cluster
 * [x] Movies and Music Arena
@@ -23,7 +23,7 @@ This is the initial landing site of all users reserved for custom made experienc
 
 <figure><img src="../../.gitbook/assets/cluster 5.jpg" alt=""><figcaption></figcaption></figure>
 
-The Education Cluster houses ENVerse Web 3.0 University Academy through which users can choose to learn from the array of courses available this includes:
+The Education Cluster houses ENVERSE Web 3.0 University Academy through which users can choose to learn from the array of courses available this includes:
 
 * [x] Crypto Currency
 * [x] Smart Contracts Development
@@ -39,9 +39,9 @@ Stakeholders such as schools, libraries, learning centers will also be onboarded
 
 <figure><img src="../../.gitbook/assets/cluster 4.jpg" alt=""><figcaption></figcaption></figure>
 
-* [x] ENGames collections will be based here:  Game creator will be based here to allow individuals create games, purchase pets and battle with them.
-* [x] ENClips our movie streaming theater will be based here.
-* [x] ENMusic our music streaming platform will be based here.
+* [x] ENGAMES collections will be based here:  Game creator will be based here to allow individuals create games, purchase pets and battle with them.
+* [x] ENCLIPS our movie streaming theater will be based here.
+* [x] ENMUSIC our music streaming platform will be based here.
 * [x] Musical Concerts will hold here.
 * [x] Movie Festivals and Awards will hold here.
 * [x] Safari & nature parks will be based here.
