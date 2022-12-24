@@ -34,7 +34,7 @@
 * [Market & Opportunity](d/market-and-opportunity/README.md)
   * [African Blockchain & Crypto Market](d/market-and-opportunity/african-blockchain-and-crypto-market.md)
   * [Metaverse Opportunities In Africa](d/market-and-opportunity/metaverse-opportunities-in-africa.md)
-* [ENVerse Economy](d/enverse-economy/README.md)
+* [ENVERSE Economy](d/enverse-economy/README.md)
   * [Tokenomics](d/enverse-economy/tokenomics.md)
   * [Fund Allocation](d/enverse-economy/fund-allocation.md)
   * [$ENN Token Functionality](d/enverse-economy/usdenn-token-functionality.md)
