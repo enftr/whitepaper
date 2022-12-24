@@ -1,6 +1,6 @@
 # Landnomics
 
-The ENLAD map consists of 100,000 land parcels with 70% of the land made available to the general public when 30% is reserved. This landnomics is available for brands and creators who are willing to have their own virtual space and presence within the ENVERSE metaverse in order to contribute to the ecosystem.
+The ENLAND map consists of 100,000 land parcels with 70% of the land made available to the general public when 30% is reserved. This landnomics is available for brands and creators who are willing to have their own virtual space and presence within the ENVERSE metaverse in order to contribute to the ecosystem.
 
 By owning land deeds in form of NFTs users can construct buildings/other ways of utilizing their lands following our : 75% rule i.e. Users can only build 15m x 15m on a 20m x 20m allocation with the maximum building from ground being 15m.\
 The base price of land parcels on ENLAND measured in sqm is $0.050 I.e. $0.050/sqm. The land parcels on ENLAND is divided into six different types based on their dimensions.
