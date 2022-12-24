@@ -1,6 +1,6 @@
 # Tokenomics
 
-$ENN Token is the token used for transactions within the ENVerse ecosystem. There will only be a total of 5 billion tokens in aggregate and supply will never exceed this amount.
+$ENN Token is the token used for transactions within the ENVERSE ecosystem. There will only be a total of 5 billion tokens in aggregate and supply will never exceed this amount.
 
 ## Token Distribution <a href="#country" id="country"></a>
 
@@ -10,7 +10,7 @@ $ENN Token is the token used for transactions within the ENVerse ecosystem. Ther
 
 ### Seed Round
 
-Seed round investors will have 5% token allocation of the total 5 Billion token supply at the price of $0.0030 and a seed valuation of $15,000,000 bring the seed raise to $750,000. Seed tokens shall be vested with a 1 year cliff period, M13 = 10%, M18 = 10%, M24 = 20%, M30-M39 = 60%
+Seed round investors will have 5% token allocation of the total 5 Billion token supply at the price of $0.0030 and a seed valuation of $15,000,000 brings the seed raise to $750,000. Seed tokens shall be vested with a 1 year cliff period, M13 = 10%, M18 = 10%, M24 = 20%, M30-M39 = 60%
 
 ### Private Round
 
@@ -22,7 +22,7 @@ Pre IDO investors will be allocated 2.5% of the total $ENN token supply at a pri
 
 ### Public
 
-Public round tokens will be 0.5% of the total $ENN token supply at a price of $0.0050 and a valuation $25,000,000 bring total valuation to $25,000,000 with an initial market cap excluding liquidity at $127,500.00. The public token shall be vested with 10% released at TGE, 1 month cliff, 1.5% daily vesting till 90%.
+Public round tokens will be 0.5% of the total $ENN token supply at a price of $0.0050 and a valuation $25,000,000 brings total valuation to $25,000,000 with an initial market cap excluding liquidity at $127,500.00. The public token shall be vested with 10% released at TGE, 1 month cliff, 1.5% daily vesting till 90%.
 
 ### Team & Advisor
 

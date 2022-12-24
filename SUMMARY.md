@@ -5,11 +5,11 @@
 ## A
 
 * [Introduction](a/introduction/README.md)
-  * [African Entertainment On ENVerse](a/introduction/african-entertainment-on-enverse.md)
-  * [Education On ENVerse](a/introduction/education-on-enverse.md)
-  * [Healthcare On ENVerse](a/introduction/healthcare-on-enverse.md)
-  * [Fin-Tech On ENVerse](a/introduction/fin-tech-on-enverse.md)
-  * [ENLand](a/introduction/enland.md)
+  * [African Entertainment On ENVERSE](a/introduction/african-entertainment-on-enverse.md)
+  * [Education On ENVERSE](a/introduction/education-on-enverse.md)
+  * [Healthcare On ENVERSE](a/introduction/healthcare-on-enverse.md)
+  * [Fin-Tech On ENVERSE](a/introduction/fin-tech-on-enverse.md)
+  * [ENLAND](a/introduction/enland.md)
   * [Revenue](a/introduction/revenue.md)
 
 ## B

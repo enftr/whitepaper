@@ -1,10 +1,10 @@
 # Digital Assets
 
-Digital assets are one of the essential components of the ENVerse metaverse. Creators, brands, consumers and the investors have the opportunity to own rent and trade different digital assets via the marketplace (ENMart) some of the digital assets includes:
+Digital assets are one of the essential components of the ENVERSE metaverse. Creators, brands, consumers and the investors have the opportunity to own rent and trade different digital assets via the marketplace (ENMART) some of the digital assets includes:
 
 ## Avatars <a href="#country" id="country"></a>
 
-Creators, brands and users are able to create hyper-realistic avatars that closely resemble user’s facial and physical features. User-generated avatars can be used in ENVerse and inter-operatable in any other metaverse.
+Creators, brands and users are able to create hyper-realistic avatars that closely resemble user’s facial and physical features. User-generated avatars can be used in ENVERSE and inter-operatable in any other metaverse.
 
 ## **NFT Skins/Wearables** <a href="#country" id="country"></a>
 

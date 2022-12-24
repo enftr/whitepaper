@@ -26,10 +26,12 @@ This is the initial landing site of all users reserved for custom made experienc
 The Education Cluster houses ENVerse Web 3.0 University Academy through which users can choose to learn from the array of courses available this includes:
 
 * [x] Crypto Currency
+* [x] Smart Contracts Development
 * [x] Coding Concepts
+* [x] 3D Design
 * [x] Metaverse Development and lots more.
 
-Stakeholders such as schools, libraries, learning centres will also be onboarded on the education cluster.
+Stakeholders such as schools, libraries, learning centers will also be onboarded on the education cluster.
 
 ### Movies, Music, Nature Parks/Safari & Games Cluster
 
@@ -77,7 +79,7 @@ Users can create fully customizable public cluster that can be publicly accessed
 
 <figure><img src="../../.gitbook/assets/cluster 2.jpg" alt=""><figcaption></figcaption></figure>
 
-The Financial Cluster will be hosting plethora of crypto and fiat exchanges, banks etc. This is the home of social trading within the ENVerse metaverse where users enjoy the benefits of trading within the metaverse. Users can trade assets such as:
+The Financial Cluster will be hosting plethora of crypto and fiat exchanges, banks etc. This is the home of social trading within the ENVERSE metaverse where users enjoy the benefits of trading within the metaverse. Users can trade assets such as:
 
 1. NFTs
 2. Tokens

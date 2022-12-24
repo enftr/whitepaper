@@ -1,12 +1,12 @@
 # Products
 
-### ENMart
+### ENMART
 
-ENMart is the ecosystem's decentralized marketplace that allows users to trade, stake, store and mint NFTs. All land sales on ENVerse will be done on ENMart and will also be providing a marketplace for brands, content creators and consumers in the African entertainment space (movies and music)
+ENMART is the ecosystem's decentralized marketplace that allows users to trade, stake, store and mint NFTs. All land sales on ENVERSE will be done on ENMART and will also be providing a marketplace for brands, content creators and consumers in the African entertainment space (movies and music)
 
-### ENClips & ENMusic
+### ENCLIPS & ENMUSIC
 
-ENVerse in it's next phase of developments will be providing decentralized blockchain streaming services for African films and music on the ENVerse metaverse creating opporrtunites like no other streaming service on the continent such as:
+ENVERSE entertainment cluster will be providing virtual movie theatre with unique features such as:
 
 * Providing exclusive contents
 * Co-watching
@@ -14,7 +14,7 @@ ENVerse in it's next phase of developments will be providing decentralized block
 * Content voting
 * Community charts
 * NFTs
-* Incentivizing content creators and viewers
+* Incentives for both content creators and consumers.
 
 {% tabs %}
 {% tab title="ENClips Portal" %}
@@ -30,13 +30,13 @@ ENVerse in it's next phase of developments will be providing decentralized block
 {% endtab %}
 {% endtabs %}
 
-ENMusic is a decentralized streaming service that provides a blockchain based streaming platform to help artists publish and monetize their body of work, distribute to fans and also give artists and listeners earning potentials through uploading, promoting and listening to music on the platform.\
-ENMusic is a direct-to-consumer platform where original and exclusive African music is distributed directly to local and global consumers. ENMusic bridges the gap between African content suppliers and their global content consumers while giving unique and engaging content experiences to their consumers.
+ENMUSIC is a decentralized virtual streaming service that provides a blockchain based streaming platform to help artists publish and monetize their body of work, distribute to fans and also give artists and listeners earning potentials through uploading, promoting and listening to music on the platform.\
+ENMUSIC is a direct-to-consumer platform where original and exclusive African music is distributed directly to local and global consumers. ENMUSIC bridges the gap between African content suppliers and their global content consumers while giving unique and engaging content experiences to their consumers.
 
 ### ENDEX
 
 ENDEX is the ecosystem's decentralized exchange that allows users some dynamic exchange features such as swaps, stakes etc.\
-ENDEX also provides on-ramp/off-ramp supports through strategic payment gateways and channel partners. ENVerse understands the uniqueness of crypto payments in Africa and in order to give consumers and brands alike a seamless experience we are proving multiple pay-points and channel access.
+ENDEX also provides on-ramp/off-ramp supports through strategic payment gateways and channel partners. ENVERSE understands the uniqueness of crypto payments in Africa and in order to give consumers and brands alike a seamless experience we are proving multiple pay-points and channel access.
 
 ### ENGames
 

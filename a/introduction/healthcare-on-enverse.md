@@ -1,4 +1,4 @@
-# Healthcare On ENVerse
+# Healthcare On ENVERSE
 
 <figure><img src="../../.gitbook/assets/image01.png" alt=""><figcaption><p>Africa Health ExCon -Egypt</p></figcaption></figure>
 
@@ -6,7 +6,7 @@ It is clear that technology is significantly advancing healthcare in the areas o
 
 <figure><img src="../../.gitbook/assets/960x0.jpg" alt=""><figcaption><p>Healthcare in Metaverse, AR, VR --Forbes</p></figcaption></figure>
 
-ENVerse healthcare cluster will be providing easy onboarding for new and existing Web 2.0/ Web 3.0 E-health projects across the African continent while promoting the United Nations Sustainable Development Goal 3 _"Ensure healthy lives and promote wellbeing for all at all ages"_
+ENVERSE healthcare cluster will be providing easy onboarding for new and existing Web 2.0/ Web 3.0 E-health projects across the African continent while promoting the United Nations Sustainable Development Goal 3 _"Ensure healthy lives and promote wellbeing for all at all ages"_
 
 \
-ENVerse healthcare cluster offers an immersive 3D experience for patients, families, students, nurses, doctors, physiotherapist, occupational therapists and all key stakeholders in healthcare.
+ENVERSE healthcare cluster offers an immersive 3D experience for patients, families, students, nurses, doctors, physiotherapist, occupational therapists and all key stakeholders in healthcare.
