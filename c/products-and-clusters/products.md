@@ -38,9 +38,9 @@ ENMUSIC is a direct-to-consumer platform where original and exclusive African mu
 ENDEX is the ecosystem's decentralized exchange that allows users some dynamic exchange features such as swaps, stakes etc.\
 ENDEX also provides on-ramp/off-ramp supports through strategic payment gateways and channel partners. ENVERSE understands the uniqueness of crypto payments in Africa and in order to give consumers and brands alike a seamless experience we are proving multiple pay-points and channel access.
 
-### ENGames
+### ENGAMES
 
-ENGames is the collection of play to earn, learn to earn and other exciting games within the ecosystem.
+ENGAMES is the collection of play to earn, learn to earn and other exciting games within the ecosystem.
 
 ### ENWallet
 
