@@ -1,5 +1,5 @@
 ---
-description: The Official Whitepaper Of The ENVerse Metaverse.
+description: The Official Whitepaper Of The ENVERSE Metaverse.
 cover: .gitbook/assets/enverse-snap-by--on-2022-12-14_14-13-25.png
 coverY: 124.80725623582767
 ---
