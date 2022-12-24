@@ -39,7 +39,7 @@
   * [Fund Allocation](d/enverse-economy/fund-allocation.md)
   * [$ENN Token Functionality](d/enverse-economy/usdenn-token-functionality.md)
   * [Landnomics](d/enverse-economy/landnomics.md)
-  * [ENVerse Revenue](d/enverse-economy/enverse-revenue.md)
+  * [ENVERSE Revenue](d/enverse-economy/enverse-revenue.md)
 
 ## E
 
