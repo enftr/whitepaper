@@ -17,15 +17,15 @@ ENVERSE entertainment cluster will be providing virtual movie theatre with uniqu
 * Incentives for both content creators and consumers.
 
 {% tabs %}
-{% tab title="ENClips Portal" %}
+{% tab title="ENCIPS Portal" %}
 <figure><img src="../../.gitbook/assets/Screenshot (211).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="ENClips Demo Video Upload To Polygon Matic" %}
+{% tab title="ENCLIPS Demo Video Upload To Polygon Matic" %}
 <figure><img src="../../.gitbook/assets/Screenshot (215).png" alt=""><figcaption><p>A sample demo <a href="https://lvpr.tv/?v=4780q2v26zbxt047">video</a> uploaded to the Polygon Matic Blockchain with Livepeer studio &#x26; Metamask (<a href="https://mumbai.polygonscan.com/tx/0xeaa3e8a53ed0c1b0357fcb523e33f61d13ec843abd8c901ae9b2725016ead5d1">View transaction</a>)</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="ENCLips Movie Space" %}
+{% tab title="ENCLIPS Movie Space" %}
 <figure><img src="../../.gitbook/assets/Screenshot (212).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
