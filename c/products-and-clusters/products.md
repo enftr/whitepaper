@@ -2,7 +2,7 @@
 
 ### ENMART
 
-ENMART is the ecosystem's decentralized marketplace that allows users to trade, stake, store and mint NFTs. All land sales on ENVERSE will be done on ENMART and will also be providing a marketplace for brands, content creators and consumers in the African entertainment space (movies and music)
+ENMART is the ecosystem's decentralized virtual marketplace that allows users to trade, stake, store and mint NFTs. All land sales on ENVERSE will be done on ENMART and will also be providing a marketplace for brands, content creators and consumers in the African entertainment space (movies and music)
 
 ### ENCLIPS & ENMUSIC
 
