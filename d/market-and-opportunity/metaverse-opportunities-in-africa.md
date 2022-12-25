@@ -1,8 +1,8 @@
 # Metaverse Opportunities In Africa
 
-A report shows that the metaverse will contribute $40B to sub-Saharan Africa economy over the next 10 years. ENVerse metaverse sitting at the center of the metaverse adoption in Africa is giving African brands, creators, studio, consumers and investors alike an opportunity to be a part of the new will of the internet through it's various products and clusters.
+A report shows that the metaverse will contribute $40B to sub-Saharan Africa economy over the next 10 years. ENVERSE metaverse sitting at the center of the metaverse adoption in Africa is giving African brands, creators, studio, consumers and investors alike an opportunity to be a part of the new will of the internet through it's various products and clusters.
 
-ENVerse sits on a six-way intersection of the global metaverse market, the African music and films market, the African Edu-Tech market, the African E-Health market & the African Fin-Tech and gaming market.
+ENVERSE sits on a six-way intersection of the global metaverse market, the African music and films market, the African Edu-Tech market, the African E-Health market & the African Fin-Tech and gaming market.
 
 Here are some market analysis showing the opportunities of the African music and film, Edu-Tech, E-Health, Fin-Tech and gaming market.
 
