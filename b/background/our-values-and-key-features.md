@@ -1,10 +1,10 @@
 # Our Values and Key Features
 
-ENVERSE is built on certain core values which we believe will help foster the growth of the ecosystem and build royalty of it's user.
+ENVERSE will be built on certain core values which we believe will help foster the growth of the ecosystem and build royalty of it's user.
 
 ### Sustainability
 
-ENVERSE is built on a sustainable ENLAND environment which allows for growth, scalability and future improvements while giving creators, consumers and the investors alike an opportunity to earn a decent living.
+ENVERSE is being built on a sustainable ENLAND environment which allows for growth, scalability and future improvements while giving creators, consumers and the investors alike an opportunity to earn a decent living.
 
 ### User Privacy
 

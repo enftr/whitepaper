@@ -42,9 +42,9 @@ ENDEX also provides on-ramp/off-ramp supports through strategic payment gateways
 
 ENGAMES is the collection of play to earn, learn to earn and other exciting games within the ecosystem.
 
-### ENWallet
+### ENWALLET
 
-ENWallet is a vital component of the ecosystem, developed to provide a smooth and intuitive experience for all users allowing them to easily manage their wallets easily.
+ENWALLET is a vital component of the ecosystem, developed to provide a smooth and intuitive experience for all users allowing them to easily manage their wallets easily.
 
 ### ENDAO
 
